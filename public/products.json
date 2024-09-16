@@ -1,0 +1,100 @@
+[
+    {
+      "id": "1",
+      "name": "Liquid Gel 2-in-1 Whitening Toothpaste and Mouthwash",
+      "url": "https://www.loblaws.ca/liquid-gel-2-in-1-whitening-toothpaste-and-mouthwa/p/20312052001_EA?source=nspt",
+      "image": "https://www.impackt.it/wp-content/uploads/2013/12/Il-packaging-come-medium.jpg",
+      "brand": "COLGADE",
+      "price": 5.5,
+      "tags": [
+        "toothpaste",
+        "discount",
+        "gel"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Max Fresh Charcoal Toothpaste",
+      "url": "https://www.loblaws.ca/max-fresh-charcoal-toothpaste/p/21354498_EA?source=nspt",
+      "image": "https://www.impackt.it/wp-content/uploads/2013/12/Il-packaging-come-medium.jpg",
+      "brand": "COLGADE",
+      "price": 2,
+      "tags": [
+        "toothpaste",
+        "gel"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Ultimate Coconut Crème Cookies",
+      "url": "https://www.loblaws.ca/ultimate-coconut-cr-me-cookies/p/20974380_EA?source=nspt",
+      "image": "https://www.impackt.it/wp-content/uploads/2013/12/Il-packaging-come-medium.jpg",
+      "brand": "DARE",
+      "price": 1.88,
+      "tags": [
+        "cookies",
+        "creme"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Marvel Go on a Mission Collector's Album",
+      "url": "https://www.loblaws.ca/marvel-go-on-a-mission-collector-s-album/p/21612013_EA?source=nspt",
+      "image": "https://www.impackt.it/wp-content/uploads/2013/12/Il-packaging-come-medium.jpg",
+      "brand": "MARVEL",
+      "price": 5,
+      "tags": [
+        "comics",
+        "book"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Liquid Gel 2-in-1 Whitening Toothpaste and Mouthwash",
+      "url": "https://www.loblaws.ca/liquid-gel-2-in-1-whitening-toothpaste-and-mouthwa/p/20312052001_EA?source=nspt",
+      "image": "https://www.impackt.it/wp-content/uploads/2013/12/Il-packaging-come-medium.jpg",
+      "brand": "COLGADE",
+      "price": 5.5,
+      "tags": [
+        "toothpaste",
+        "discount",
+        "gel"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Max Fresh Charcoal Toothpaste",
+      "url": "https://www.loblaws.ca/max-fresh-charcoal-toothpaste/p/21354498_EA?source=nspt",
+      "image": "https://www.impackt.it/wp-content/uploads/2013/12/Il-packaging-come-medium.jpg",
+      "brand": "COLGADE",
+      "price": 2,
+      "tags": [
+        "toothpaste",
+        "gel"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Ultimate Coconut Crème Cookies",
+      "url": "https://www.loblaws.ca/ultimate-coconut-cr-me-cookies/p/20974380_EA?source=nspt",
+      "image": "https://www.impackt.it/wp-content/uploads/2013/12/Il-packaging-come-medium.jpg",
+      "brand": "DARE",
+      "price": 1.88,
+      "tags": [
+        "cookies",
+        "creme"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Marvel Go on a Mission Collector's Album",
+      "url": "https://www.loblaws.ca/marvel-go-on-a-mission-collector-s-album/p/21612013_EA?source=nspt",
+      "image": "https://www.impackt.it/wp-content/uploads/2013/12/Il-packaging-come-medium.jpg",
+      "brand": "MARVEL",
+      "price": 5,
+      "tags": [
+        "comics",
+        "book"
+      ]
+    }
+  ]
